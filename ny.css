@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+ 
+ }
+ 
+ .jumbotron {
+    background-color: royalblue;
+    text-align: center;
+ }
+ 
+ .card-footer {
+    text-align: center;
+ }
